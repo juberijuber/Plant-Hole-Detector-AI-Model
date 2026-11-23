@@ -1,0 +1,8 @@
+# YOLOv8 Dataset Configuration
+path: D:/Juber B/Planting Hole Detection/hole_detector/dataset
+train: images/train
+val: images/val
+
+names:
+  0: empty
+  1: filled
